@@ -1,0 +1,6 @@
+{
+  "name": "WAWI: Problem Quest",
+  "description": "Adaptive Digital-to-Physical Learning Ecosystem for Early Childhood Development (TK 3-6 Tahun). Mengintegrasikan 15 Menit Digital Brain Game dan 15 Menit Real-World Mission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
